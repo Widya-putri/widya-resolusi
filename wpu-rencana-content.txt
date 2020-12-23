@@ -3,5 +3,6 @@ RENCANA KONTENT WPU
 - Javascript
   * ES6
   * Framework javascript
+- struktur data dasar
 - Php framworks
 - inyerview
