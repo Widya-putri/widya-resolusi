@@ -7,6 +7,6 @@ RENCANA KONTENT WPU
     - viu
 - struktur data dasar
 - Php framworks
-  * laravel
+    - laravel
 - inyerview
 - python
