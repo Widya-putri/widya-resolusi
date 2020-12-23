@@ -5,4 +5,6 @@ RENCANA KONTENT WPU
   * Framework javascript
 - struktur data dasar
 - Php framworks
+  * laravel
 - inyerview
+- python
